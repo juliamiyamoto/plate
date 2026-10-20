@@ -1,2 +1,2 @@
-# plated
-Website for Plated
+# plate
+Website for Plate
